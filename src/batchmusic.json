@@ -29,6 +29,26 @@
                   "SongYear": {"S": "1992"}
                 }
             }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Foo Fighters"},
+                  "SongTitle": {"S": "My Hero"},
+                  "AlbumTitle": {"S": "The Colour and the Shape"},
+                  "SongYear": {"S": "1998"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "SoundGarden"},
+                  "SongTitle": {"S": "Black Hole Sun"},
+                  "AlbumTitle": {"S": "Chris Cornell"},
+                  "SongYear": {"S": "1994"}
+                }
+            }
         }
       ]
 }
