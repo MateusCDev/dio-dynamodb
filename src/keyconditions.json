@@ -1,4 +1,5 @@
 {
     ":artist":{"S":"Iron Maiden"},
-    ":title":{"S":"Weekend Warrior"}
+    ":title":{"S":"Weekend Warrior"},
+    ":year":{"S":"1994"}
 }
